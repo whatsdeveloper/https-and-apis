@@ -50,6 +50,8 @@ Connection: close
 </html>
 ```
 
+![](img/How-To-Change-From-HTTP-To-HTTPS.png)
+
 ## APIs
 
 ![](img/API-page-graphic.png)
@@ -58,4 +60,9 @@ Connection: close
 - **Partner**: The API is shared with specific business partners. This can provide additional revenue streams without compromising quality.
 - **Public**: The API is available to everyone. This allows third parties to develop apps that interact with your API and can be a source for innovation.
 
-![](img/How-To-Change-From-HTTP-To-HTTPS.png)
+### RESTful APIs
+
+- **GET** — To get a resource or collection of resources.
+- **POST** — To create a resource or collection of resources.
+- **PUT/PATCH** — To update the existing resource or collection of resources.
+- **DELETE** — To delete the existing resource or the collection of resources.
